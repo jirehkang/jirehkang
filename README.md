@@ -4,14 +4,14 @@ I'm a technical writer and content strategist focused on making complex technolo
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jirehkang/)
 - 🗣️ Name pronunciation: JYRAW 
-- 🌱 Currently learning: SQL and Adobe CC
+- 🌱 Currently learning: Python, SQL, and Adobe CC
 - ⚡ Fun fact: 1400+ day-streak on Duolingo (Japanese and Spanish)
 
 ## My Skills
 
 ### Technical 
 
-- Languages & Scripting: HTML/CSS, JavaScript, Python
+- Languages & Scripting: HTML/CSS, JavaScript
 - Frameworks & Libraries: Node.js, React
 - Tools & Environments: Git, GitHub, Terminal, VSCode
 
@@ -26,13 +26,13 @@ I'm a technical writer and content strategist focused on making complex technolo
 - Soft Skills: project scoping and planning, process improvement, agile project management
 - Tools: Jira, Asana
 
-## My Projects
+## My Projects (🚧 Under Construction 🚧)
 
-### [Writing Portfolio](project_1_link)
+### [Writing Portfolio](https://jirehkang.github.io/writing-portfolio/)
 
 <!--![Project 1 Screenshot](project_1_screenshot_url)-->
 
-My writing portfolio contains work samples I've done as a technical writer and UX writer. The site is built with Docusaurus and GitHub pages. 👉 [View the repo](https://github.com/jirehkang/writing-portfolio)
+My writing portfolio contains work samples I've done as a technical writer and UX writer. The site is built with Docusaurus and GitHub Pages. 👉 [View the repo](https://github.com/jirehkang/writing-portfolio)
 
 ### [Glossary Tooltip](project_2_link)
 
