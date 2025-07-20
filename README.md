@@ -27,8 +27,8 @@ I'm a technical writer and content strategist focused on making complex technolo
 
 ## My Projects 
 
-### [Writing Portfolio](https://jirehkang.github.io/writing-portfolio/)
+### [Writing Portfolio](https://jirehkang.github.io/portfolio/)
 
 ![Writing Portfolio Screenshot](writing-portfolio-screenshot.png)
 
-The portfolio contains work projects I've done as a technical writer and UX writer. I built the site using Docusaurus and GitHub Pages. &nbsp; 👉 [View the repo](https://github.com/jirehkang/writing-portfolio)
+The portfolio contains work projects I've done as a technical writer and UX writer. I built the site using Docusaurus and GitHub Pages. &nbsp; 👉 [View the repo](https://github.com/jirehkang/portfolio)
