@@ -29,6 +29,12 @@ I'm a technical writer and content strategist focused on making complex technolo
 
 ### [Writing Portfolio](https://jirehkang.github.io/portfolio/)
 
-![Writing Portfolio Screenshot](portfolio-screenshot.png)
+<img src="portfolio-screenshot.png" alt="Writing Portfolio Screenshot" width="75%">
 
 The portfolio contains work projects I've done as a technical writer and UX writer. I built the site using Docusaurus and GitHub Pages. &nbsp; 👉 [View the repo](https://github.com/jirehkang/portfolio)
+
+### Positioning Agent (WIP)
+
+A Streamlit-based app that helps product marketing managers, product specialists, or solo teams craft effective positioning statements. Users are guided through key messaging components like product description, category, competitors, persona, and differentiators — and the app uses AI to synthesize a final positioning statement. 
+
+👉 [View the repo](https://github.com/jirehkang/positioning-agent)
