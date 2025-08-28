@@ -5,19 +5,26 @@ I'm a technical writer and content strategist focused on making complex technolo
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jirehkang/)
 - 🗣️ Name pronunciation: JHY-RAW 
 - 🌱 Currently learning: web development and Adobe CC
-- 🦉 Fun fact: 1400+ day-streak on Duolingo (Japanese and Spanish) 
+- 🦉 Fun fact: 1500+ day-streak on Duolingo (Spanish and Chess) 
 
 ## My Skills
 
 ### Technical 
 
-- Languages & scripting: HTML, CSS, JavaScript
+- Languages & scripting: HTML, CSS, JavaScript, Python
 - Tools & environments: Git, GitHub, Gitlab, Terminal, VSCode
 
 ### Content
 
 - Writing tools: VSCode, Markdown, Microsoft Word
-- Design tools: Figma, Draw.io, Adobe Express, PlantUML
+- Content Management Systems: Confluence, Notion, WordPress
+
+### Visualization 
+
+- Adobe CC: Adobe Express, Adobe InDesign, Adobe Acrobat
+- Figma
+- Canva
+- Draw.io
 
 ### Project Management
 
