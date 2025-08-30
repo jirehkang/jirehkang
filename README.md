@@ -3,9 +3,20 @@
 I'm a technical writer and content strategist focused on making complex technology easier to understand. My experience is in creating clear, structured content, enhancing docs UX, and discovering solutions to improve workflows.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jirehkang/)
-- 🗣️ Name pronunciation: JHY-RAW 
-- 🌱 Currently learning: web development and Adobe CC
+- 🗣️ Name pronunciation: JHY-RAW
 - 🦉 Fun fact: 1500+ day-streak on Duolingo (Spanish and Chess) 
+
+## My Projects 
+
+### [Writing Portfolio](https://jirehkang.github.io/portfolio/)
+
+<img src="portfolio-screenshot.png" alt="Writing Portfolio Screenshot" width="65%">
+
+The portfolio contains work projects I've done as a technical writer and UX writer. I built the site using Docusaurus and GitHub Pages. &nbsp; 👉 [View the repo](https://github.com/jirehkang/portfolio)
+
+### Positioning Agent (WIP)
+
+AI Agent that helps turn fuzzy ideas into a clear positioning statement. I built the app using Python, OpenAI SDK, and Streamlit. &nbsp; 👉 [View the repo](https://github.com/jirehkang/positioning-agent)
 
 ## My Skills
 
@@ -17,7 +28,7 @@ I'm a technical writer and content strategist focused on making complex technolo
 ### Content
 
 - Writing tools: VSCode, Markdown, Microsoft Word
-- Content Management Systems: Confluence, Notion, WordPress
+- Content management systems: Confluence, Notion, Docusaurus, WordPress
 
 ### Visualization 
 
@@ -31,17 +42,3 @@ I'm a technical writer and content strategist focused on making complex technolo
 - Certification: [Google Project Management Professional Certificate](https://www.credly.com/badges/6a9d576c-43dd-4573-a667-4fd4b3bb01d9/linked_in_profile)
 - Soft skills: project scoping and planning, process improvement, agile project management
 - Tools: Jira, Confluence, Asana
-
-## My Projects 
-
-### [Writing Portfolio](https://jirehkang.github.io/portfolio/)
-
-<img src="portfolio-screenshot.png" alt="Writing Portfolio Screenshot" width="75%">
-
-The portfolio contains work projects I've done as a technical writer and UX writer. I built the site using Docusaurus and GitHub Pages. &nbsp; 👉 [View the repo](https://github.com/jirehkang/portfolio)
-
-### Positioning Agent (WIP)
-
-A Streamlit-based app that helps product marketing managers, product specialists, or solo teams craft effective positioning statements. Users are guided through key messaging components like product description, category, competitors, persona, and differentiators — and the app uses AI to synthesize a final positioning statement. 
-
-👉 [View the repo](https://github.com/jirehkang/positioning-agent)
