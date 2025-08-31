@@ -10,13 +10,11 @@ I'm a technical writer and content strategist focused on making complex technolo
 
 ### [Writing Portfolio](https://jirehkang.github.io/portfolio/)
 
-<img src="portfolio-screenshot.png" alt="Writing Portfolio Screenshot" width="65%">
-
 The portfolio contains work projects I've done as a technical writer and UX writer. I built the site using Docusaurus and GitHub Pages. &nbsp; 👉 [View the repo](https://github.com/jirehkang/portfolio)
 
-### Positioning Agent (WIP)
+### [Positioning Generator](https://positioning-generator.streamlit.app/)
 
-AI Agent that helps turn fuzzy ideas into a clear positioning statement. I built the app using Python, OpenAI SDK, and Streamlit. &nbsp; 👉 [View the repo](https://github.com/jirehkang/positioning-agent)
+AI-powered app that helps turn fuzzy ideas into a clear positioning statement. I built the app using Python, OpenAI SDK, and Streamlit. &nbsp; 👉 [View the repo](https://github.com/jirehkang/positioning-agent)
 
 ## My Skills
 
