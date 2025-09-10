@@ -25,12 +25,12 @@ AI-powered app that helps turn fuzzy ideas into a clear positioning statement. I
 
 ### Content
 
-- Writing tools: VSCode, Markdown, Microsoft Word
-- Content management systems: Confluence, Notion, Docusaurus, WordPress
+- Writing tools: VSCode, Markdown, Google Docs, Microsoft Word, Oxygen XML Author
+- Content management systems: Confluence, Notion, Docusaurus
 
 ### Visualization 
 
-- Adobe CC: Adobe Express, Adobe InDesign, Adobe Acrobat
+- Adobe CC: Adobe Express, Adobe Acrobat
 - Figma
 - Canva
 - Draw.io
